@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--um simples exemplo em linguagem xml-->
+<lojalivros>
+	<livros>
+		<titulo> XML como programar </titulo>
+		<autor> Deitel </autor>
+		<editora> Bookman </editora>
+	</livros>
+</lojalivros>
